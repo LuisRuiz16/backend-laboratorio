@@ -1,0 +1,10 @@
+{
+  "name": "backend-laboratorio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API del laboratorio de despliegue en Render",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": "22.x" },
+  "dependencies": { "express": "^5.1.0", "cors": "^2.8.5" }
+}
